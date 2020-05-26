@@ -7,6 +7,41 @@
 			"name": "Pink Rose Flower Cake",
 			"price": "1200",
 			"quantity": "2kg"
+		},
+		{
+			"id": "2",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71tAo%2BIM52L._SL1500_.jpg",
+			"name": "Flower Cake",
+			"price": "1000",
+			"quantity": "2kg"
+		},
+		{
+			"id": "3",
+			"image": "https://i.pinimg.com/originals/7d/7c/6e/7d7c6ecb21004d9bccc32af5b2ba3056.jpg",
+			"name": "Tire Cake",
+			"price": "700",
+			"quantity": "1kg"
+		},
+		{
+			"id": "4",
+			"image": "https://www.melsamazingcakes.com/wp-content/uploads/2017/06/IMG_2097-e1499632364260.jpg",
+			"name": "Birthday Cake",
+			"price": "700",
+			"quantity": "1kg"
+		},
+		{
+			"id": "5",
+			"image": "https://www.susies-cakes.co.uk/susies-cakes/wp-content/uploads/2013/10/Princess-Tiara-3-Tier-Birthday-Cake-Sponge-Poole-Dorset-Main.jpg",
+			"name": "Birthday Cake",
+			"price": "700",
+			"quantity": "1kg"
+		},
+		{
+			"id": "6",
+			"image": "https://www.chismax.com/wp-content/uploads/2015/08/Pinky-Gifty-Cake.jpg",
+			"name": "Birthday Cake",
+			"price": "700",
+			"quantity": "1kg"
 		}
 	]
 }
